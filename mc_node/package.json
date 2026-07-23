@@ -1,0 +1,11 @@
+{
+  "name": "shuvo-mc-bot",
+  "version": "1.0.0",
+  "description": "Minecraft bot for SHUVO BOT",
+  "main": "mc_bot.js",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "mineflayer": "^4.37.1"
+  }
+}
