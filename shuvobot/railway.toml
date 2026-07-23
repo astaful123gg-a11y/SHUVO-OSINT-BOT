@@ -1,8 +1,0 @@
-[build]
-builder = "dockerfile"
-dockerfilePath = "Dockerfile"
-
-[deploy]
-startCommand = "python3 run.py"
-restartPolicyType = "always"
-restartPolicyMaxRetries = 20

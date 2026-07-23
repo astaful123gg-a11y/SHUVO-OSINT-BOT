@@ -1,7 +1,0 @@
-providers = ["python", "node"]
-
-[phases.setup]
-nixPkgs = ["ffmpeg", "gcc", "libffi", "openssl"]
-
-[start]
-cmd = "python3 run.py"
