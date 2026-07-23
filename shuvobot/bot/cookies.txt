@@ -1,0 +1,21 @@
+# ─── Instagram Cookies File ───────────────────────────────────────────────────
+# Add your fresh Instagram cookies here — one full cookie string per line.
+# Lines starting with # are ignored.
+#
+# Format:
+#   sessionid=xxx; csrftoken=xxx; ds_user_id=xxx; mid=xxx; ig_did=xxx; datr=xxx
+#
+# Both the Downloader API and InstaInfo API load from this file automatically.
+# After editing, restart both API workflows to pick up the new cookies.
+# ──────────────────────────────────────────────────────────────────────────────
+
+sessionid=27686041271:a5GYJyMOkEn5n5:5:AYjK8n0mYhpmisE3Zcheo56gSGEQzqO_wJDTOoEYVg; csrftoken=E0JXeyFOwJDQxBAUj3LpYjGyZkgDl8fW; ds_user_id=27686041271; mid=ahQXjQABAAE987CqE2UI-p7vg7TH; ig_did=EA98B958-57BA-469D-B1B8-272AF634586E; datr=jRcUamWcRetSizv6ZCF_AicX; ps_l=1; ps_n=1
+sessionid=27192953812:rYMAdEe2NZMYx2:10:AYhS8TdafCRavKpU_-X33TbEfrelPl_Xbcgu5qdKvw; csrftoken=9nAz3EeTvEtndDDiVnoRPuppGdlyFJXK; ds_user_id=27192953812; mid=ahQXjQABAAE987CqE2UI-p7vg7TH; ig_did=EA98B958-57BA-469D-B1B8-272AF634586E; datr=jRcUamWcRetSizv6ZCF_AicX; ps_l=1; ps_n=1
+sessionid=28422124471:xIB9RRQgaVwJsb:27:AYjwuSbSirZuVdFsM12e1VwAUJj9cOiokIYt-ShpWQ; csrftoken=5hrnv66z2FvTREKS0co16P2ddVIQKLeZ; ds_user_id=28422124471; mid=ahQXjQABAAE987CqE2UI-p7vg7TH; ig_did=EA98B958-57BA-469D-B1B8-272AF634586E; datr=jRcUamWcRetSizv6ZCF_AicX; ps_l=1; ps_n=1
+sessionid=29880952912:GSH81oOT6V1e0x:18:AYhn7uZU065rZYEMO02e2WVeUNuuez4ndLJPPVz6yA; csrftoken=qlgEWbsSAOYhdQZpPcn0P3BStFJTcgj9; ds_user_id=29880952912; mid=ahQXjQABAAE987CqE2UI-p7vg7TH; ig_did=EA98B958-57BA-469D-B1B8-272AF634586E; datr=jRcUamWcRetSizv6ZCF_AicX; ps_l=1; ps_n=1
+sessionid=32326367170:5aXK2GFLNFT8nd:0:AYhM2q-jxkPUgYUtU0ggIebd7ba-BudNfcTSvnI-yQ; csrftoken=LK8aTdFtnHpxdeA9QqsU18DPWMhcENrk; ds_user_id=32326367170; mid=ahQXjQABAAE987CqE2UI-p7vg7TH; ig_did=EA98B958-57BA-469D-B1B8-272AF634586E; datr=jRcUamWcRetSizv6ZCF_AicX; ps_l=1; ps_n=1
+sessionid=31836894355:GxYcAFsQMNHT16:21:AYh88UPNPGWLBCjwGjOb4J_iK_mWbAoLFQv-fSzm4g; csrftoken=gwFhRIIFyyZ5ALnX553cb9QGimc9fazS; ds_user_id=31836894355; mid=ahQXjQABAAE987CqE2UI-p7vg7TH; ig_did=EA98B958-57BA-469D-B1B8-272AF634586E; datr=jRcUamWcRetSizv6ZCF_AicX; ps_l=1; ps_n=1
+sessionid=32568004964:7RAhQ2aSIPhG17:3:AYikmGWnW7wOuwKypSCNwzncpGcHnfoewbzjQ45y1g; csrftoken=bEPHh5O5iV3RUcdfG7q8PGLrQa7UKfQD; ds_user_id=32568004964; mid=ahQXjQABAAE987CqE2UI-p7vg7TH; ig_did=EA98B958-57BA-469D-B1B8-272AF634586E; datr=jRcUamWcRetSizv6ZCF_AicX; ps_l=1; ps_n=1
+sessionid=28433141908:zVBN83ACCceRNG:12:AYiXXiP2eVCNxkFmKjVcfgCJJxGmxlvMn0UXNbB7yQ; csrftoken=RXoBGVGpTv7ejToDbiapEiUaQfR5z7zC; ds_user_id=28433141908; mid=ahQXjQABAAE987CqE2UI-p7vg7TH; ig_did=EA98B958-57BA-469D-B1B8-272AF634586E; datr=jRcUamWcRetSizv6ZCF_AicX; ps_l=1; ps_n=1
+sessionid=25733293258:UTL9Hs9lprF7nX:18:AYhQMmbJd1YKW98yKzeI2Rrf-To9HhMREHkbSxEl8A; csrftoken=nVobbr3eVS5gxYbOXH5t67Iq4o9jkQR7; ds_user_id=25733293258; mid=ahQXjQABAAE987CqE2UI-p7vg7TH; ig_did=EA98B958-57BA-469D-B1B8-272AF634586E; datr=jRcUamWcRetSizv6ZCF_AicX; ps_l=1; ps_n=1
+sessionid=30139350513:hBniwnL6IpYtCE:5:AYhHzkuQAliT_m_Dfo-2VceABaSm9LuWBJ5VQuWeLw; csrftoken=K34MCfuwmfbfpLOoRFiiD2UyPQsWq9c6; ds_user_id=30139350513; mid=ahQXjQABAAE987CqE2UI-p7vg7TH; ig_did=EA98B958-57BA-469D-B1B8-272AF634586E; datr=jRcUamWcRetSizv6ZCF_AicX; ps_l=1; ps_n=1
